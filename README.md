@@ -8,3 +8,5 @@ THESE ARE OUTPUT OF THE CODES WRITTEN ABOVE:
 <img width="1536" height="754" alt="Number of Nobel Prizes Awarded Every Year without world wars" src="https://github.com/user-attachments/assets/1b79c82f-04e7-4568-ac32-b3b85589ad31" />
 ![Number of Nobel Prizes Awarded Every Year](https://github.com/user-attachments/assets/ea5d1878-af75-4b19-8018-dd1d9116a39d)
 <img width="1536" height="754" alt="Top 10 Nobel Prize Winning Nations" src="https://github.com/user-attachments/assets/27fbd63e-5176-4e97-96d0-015a662cdc35" />
+This graph is also available as video on my linkdin profile.
+<img width="1918" height="878" alt="linegraph by pyplot" src="https://github.com/user-attachments/assets/c4bb67be-09d6-4818-8a04-48c96bed088b" />
