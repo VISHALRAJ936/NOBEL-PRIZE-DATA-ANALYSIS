@@ -1,5 +1,6 @@
 # NOBEL-PRIZE-DATA-ANALYSIS
-In this i have done data analysis and visualization on Nobel Prize Data till year 2020.I have used all my learnings of libraries such as Numpy,Pandas,Matplotlib,Seaborn and Pyplot 
+In this i have done data analysis and visualization on Nobel Prize Data till year 2020.I have used all my learnings of libraries such as Numpy,Pandas,Matplotlib,Seaborn and Pyplot.
+THESE ARE OUTPUT OF THE CODES WRITTEN ABOVE:
 <img width="1536" height="754" alt="GENDER WISE PRIZE DISTRIBUTION" src="https://github.com/user-attachments/assets/902e2a1b-a52c-413b-9867-61607a702cc4" />
 ![CATEGORY WISE DISTRIBUTION OF NOBEL](https://github.com/user-attachments/assets/917e4d81-f760-4d8c-9f8a-600cbb3a3e20)
 <img width="1536" height="754" alt="Number of Nobel Prizes Awarded Every Year without world wars" src="https://github.com/user-attachments/assets/1b79c82f-04e7-4568-ac32-b3b85589ad31" />
